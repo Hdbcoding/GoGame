@@ -1,0 +1,7 @@
+H:\C# Projects\GoGame\GoGameTests\obj\Debug\GoGameTests.csprojResolveAssemblyReference.cache
+H:\C# Projects\GoGame\GoGameTests\bin\Debug\GoGameTests.dll
+H:\C# Projects\GoGame\GoGameTests\bin\Debug\GoGameTests.pdb
+H:\C# Projects\GoGame\GoGameTests\bin\Debug\GoGame.exe
+H:\C# Projects\GoGame\GoGameTests\bin\Debug\GoGame.pdb
+H:\C# Projects\GoGame\GoGameTests\obj\Debug\GoGameTests.dll
+H:\C# Projects\GoGame\GoGameTests\obj\Debug\GoGameTests.pdb
